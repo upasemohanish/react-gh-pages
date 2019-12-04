@@ -1,0 +1,7 @@
+Follow steps on :
+
+https://github.com/gitname/react-gh-pages
+
+If Commite gives error:
+
+git push origin master --force
