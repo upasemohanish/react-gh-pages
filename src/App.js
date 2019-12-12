@@ -15,8 +15,6 @@ import {
   ReflexSplitter,
   ReflexElement
 } from 'react-reflex'
- 
-
 
 class App extends Component {
 	
